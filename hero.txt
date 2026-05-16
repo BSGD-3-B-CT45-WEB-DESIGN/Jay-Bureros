@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Belieber - Hero</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="justin.png">
+</head>
+
+<body>
+
+<nav>
+    <a href="index.html">Hero</a>
+    <a href="music.html">Image/Music</a>
+    <a href="css-basic.html">CSS Basic</a>
+    <a href="hover-effects.html">Hover Effects</a>
+</nav>
+
+<section class="page active">
+
+    <h1 class="hero-title">
+        Belieber
+    </h1>
+
+    <img src="y2k-image.jpg" class="hero-image">
+
+    <p class="hero-sub">
+        Justin Bieber
+    </p>
+
+    <button class="main-btn">
+        PLAY NOW
+    </button>
+
+</section>
+
+</body>
+</html>
